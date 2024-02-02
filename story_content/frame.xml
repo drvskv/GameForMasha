@@ -1516,7 +1516,7 @@
       <string id="resources">Ресурсы</string>
       <string id="acc_resources">ресурсы</string>
       <string id="restart">Начать сначала</string>
-      <string id="resume">Возобновить тест</string>
+      <string id="resume">Продолжить с того же места</string>
       <string id="acc_locked">запер(ла) дверь</string>
       <string id="acc_search_input">поиск</string>
       <string id="search_toggle">Поиск</string>
@@ -1556,14 +1556,36 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6hIHL2YK7Cc" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6hIHL2YK7Cc" displaytext="Игра" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6hIHL2YK7Cc.5zsUR5157al" displaytext="Основная карта" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.5le8tsUdvif" displaytext="Старт" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6GCSyrCb018" displaytext="Финал" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6hVpuYAIGRw" displaytext="Планирование" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6GSpZnVXMhx" displaytext="Стрессоустойчивость" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6L4W8Pa8cuO" displaytext="Отдых" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5nF9PkPCqT8" displaytext="Общение. Кейс1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6DpZKCuhkUh" displaytext="Общение. Кейс 2" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.6NlXfskJHX4" displaytext="Таблица результатов" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.6KG1cHVas5Z" displaytext="Печаль" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.66f25Hevxdy" displaytext="Гнев" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5tR9KalcUM2" displaytext="Гнев. Кейс 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.61hK82dAGH6" displaytext="Гнев. Кейс 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5vJVTWaSD5j" displaytext="Гнев. Кейс 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5gpKABethlu" displaytext="Брезгливость" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5hYyzNfPrGg" displaytext="Страх" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.6DiBktc0oYX" displaytext="Выбор названий" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.5zp2yGC3qvA" displaytext="Печаль. Кейс 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.67k1RinZc5v" displaytext="Страх. Кейс 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6KJ1zRvZ8aM" displaytext="Страх. Кейс 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6cBNpTQgTvj" displaytext="Страх. Кейс 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5ndPzyxjCnq" displaytext="Радость" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6brOpIPlBtU" displaytext="Радость. Кейс 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6jWbfwevYEC" displaytext="Радость. Кейс 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5ogRi4mmjFL" displaytext="Радость. Кейс 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5fYYQafZJPc" displaytext="Брезгливость. Кейс 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5ZTkmuiqfUy" displaytext="Брезгливость. Кейс 3" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6lqt5bepmEU" displaytext="Брезгливость. Кейс 2" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.5baNeOma716" displaytext="Печаль. Кейс 2" expand="false" type="slide" />
             <slidelink slideid="_player.6hIHL2YK7Cc.6E1QW58boEy" displaytext="Печаль. Кейс 3" expand="false" type="slide" />
           </links>
