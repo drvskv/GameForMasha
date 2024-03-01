@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Игра для Маши Таровик (в стиле Головоломки)" />
+              <option name="title_text" value="Игра для Маши Таровик (в стиле Головоломки) бэкап" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1556,9 +1556,29 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6CAXkkfDolp" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6CAXkkfDolp" displaytext="Старт" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6CAXkkfDolp.67jaBTNwIjP" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6CAXkkfDolp.6DiBktc0oYX" displaytext="Выбор названий" expand="false" type="slide" />
+            <slidelink slideid="_player.6CAXkkfDolp.6U6c5b3c6jo" displaytext="Обложка" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6hIHL2YK7Cc" displaytext="Игра" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6hIHL2YK7Cc.5zsUR5157al" displaytext="Основная карта" expand="false" type="slide" />
+            <slidelink slideid="_player.6CAXkkfDolp.5le8tsUdvif" displaytext="Раунд входа" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6hVpuYAIGRw" displaytext="Планирование" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5bmp4O0LLtZ" displaytext="Тайм-менеджмент (подсказка)" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6GSpZnVXMhx" displaytext="Стрессоустойчивость" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6L4W8Pa8cuO" displaytext="Отдых" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6oYZIOZndor" displaytext="Старт" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5nF9PkPCqT8" displaytext="Общение. Кейс1" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6DpZKCuhkUh" displaytext="Общение. Кейс 2" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6iO3c4VFst6" displaytext="Таблица результатов" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.6KG1cHVas5Z" displaytext="Печаль" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.66f25Hevxdy" displaytext="Гнев" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5gpKABethlu" displaytext="Брезгливость" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5hYyzNfPrGg" displaytext="Страх" expand="false" type="slide" />
+            <slidelink slideid="_player.6hIHL2YK7Cc.5ndPzyxjCnq" displaytext="Радость" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
